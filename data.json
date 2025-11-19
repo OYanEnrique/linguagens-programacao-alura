@@ -1,0 +1,68 @@
+[
+{
+    "nome": "JavaScript",
+    "descricao": "JavaScript é uma linguagem de programação leve, interpretada e orientada a objetos, amplamente utilizada para desenvolvimento web.",
+    "ano": 1995,
+    "link": "https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"
+},
+{
+    "nome": "Python",
+    "descricao": "Python é uma linguagem de programação de alto nível, interpretada e de propósito geral, conhecida por sua legibilidade e simplicidade.",
+    "ano": 1991,
+    "link": "https://www.python.org/"
+},
+{
+    "nome": "Java",
+    "descricao": "Java é uma linguagem de programação de propósito geral, orientada a objetos, conhecida por sua portabilidade e desempenho.",
+    "ano": 1995,
+    "link": "https://www.java.com/pt-BR/"
+},
+{
+    "nome": "C#",
+    "descricao": "C# é uma linguagem de programação moderna, orientada a objetos, desenvolvida pela Microsoft como parte da plataforma .NET.",
+    "ano": 2000,
+    "link": "https://docs.microsoft.com/pt-br/dotnet/csharp/"
+},
+{
+    "nome": "C++",
+    "descricao": "C++ é uma linguagem de programação de propósito geral, de médio nível, que adiciona recursos de orientação a objetos à linguagem C.",
+    "ano": 1985,
+    "link": "https://isocpp.org/"
+},
+{
+    "nome": "TypeScript",
+    "descricao": "TypeScript é um superconjunto de JavaScript que adiciona tipagem estática opcional à linguagem, desenvolvido pela Microsoft.",
+    "ano": 2012,
+    "link": "https://www.typescriptlang.org/"
+},
+{
+    "nome": "PHP",
+    "descricao": "PHP é uma linguagem de script de propósito geral, de código aberto, especialmente adequada para o desenvolvimento web.",
+    "ano": 1995,
+    "link": "https://www.php.net/"
+},
+{
+    "nome": "Swift",
+    "descricao": "Swift é uma linguagem de programação poderosa e intuitiva para macOS, iOS, watchOS e tvOS, criada pela Apple.",
+    "ano": 2014,
+    "link": "https://developer.apple.com/swift/"
+},
+{
+    "nome": "Kotlin",
+    "descricao": "Kotlin é uma linguagem de programação moderna e multiplataforma, desenvolvida pela JetBrains, e é a linguagem preferida para o desenvolvimento Android.",
+    "ano": 2011,
+    "link": "https://kotlinlang.org/"
+},
+{
+    "nome": "Go",
+    "descricao": "Go (ou Golang) é uma linguagem de programação de código aberto criada pelo Google, conhecida por sua simplicidade e eficiência.",
+    "ano": 2009,
+    "link": "https://golang.org/"
+},
+{
+    "nome": "Ruby",
+    "descricao": "Ruby é uma linguagem de programação dinâmica, de código aberto, com foco na simplicidade e produtividade.",
+    "ano": 1995,
+    "link": "https://www.ruby-lang.org/pt/"
+}
+]
