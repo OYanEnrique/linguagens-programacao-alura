@@ -16,6 +16,9 @@ body {
     background: var(--bg-color); /* Define a cor de fundo usando uma variável */
     color: var(--secondary-color); /* Define a cor do texto padrão usando uma variável */
     font-family: "Quicksand", sans-serif; /* Define a família da fonte */
+    min-height: 100vh; /* Altura mínima da viewport */
+    position: relative; /* Para o footer absolute funcionar */
+    padding-bottom: 4rem; /* Espaço para o footer */
 }
 
 header {
@@ -93,7 +96,7 @@ main {
     max-width: 80rem; /* Largura máxima do conteúdo principal */
     margin: 0 auto; /* Centraliza o conteúdo principal horizontalmente */
     margin-top: 2rem; /* Margem no topo */
-    height: calc(100vh - 10rem - 4rem); /* Calcula a altura para preencher o espaço restante da tela */
+    min-height: calc(100vh - 10rem - 4rem); /* Define uma altura mínima, permitindo que o container cresça */
 }
 
 article {
