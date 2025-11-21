@@ -4,7 +4,7 @@ Projeto desenvolvido durante a **Imersão Dev com Google Gemini 10ª Edição** 
 
 ## 🚀 Sobre o Projeto
 
-Aplicação web interativa que permite buscar e explorar informações sobre diversas linguagens de programação, incluindo descrição, ano de criação e links para documentação oficial.
+Aplicação web interativa que permite buscar e explorar informações sobre linguagens de programação, frameworks, ferramentas e tecnologias. A base de dados inclui mais de 30 tecnologias populares com descrições, ano de criação e links para documentação oficial.
 
 ## 🛠️ Tecnologias Utilizadas
 
@@ -15,11 +15,18 @@ Aplicação web interativa que permite buscar e explorar informações sobre div
 
 ## 📋 Funcionalidades
 
-- 🔍 Busca de linguagens de programação
-- 📊 Exibição dinâmica de informações (nome, ano, descrição)
-- 🔗 Links para documentação oficial
-- 💅 Interface responsiva e moderna
-- 🎨 Design minimalista com tema escuro
+- 🔍 **Busca inteligente** - Pesquise por nome ou descrição
+- 📊 **Exibição dinâmica** - Cards renderizados com dados do JSON
+- 🔗 **Links externos** - Acesso direto à documentação oficial
+- 💅 **Interface responsiva** - Design adaptável para mobile e desktop
+- 🎨 **Tema escuro** - Interface moderna e confortável para os olhos
+- 🚀 **Carregamento automático** - Dados carregados ao iniciar a página
+- 🏷️ **Base expandida** - Mais de 30 tecnologias catalogadas incluindo:
+  - Linguagens de programação (JavaScript, Python, Java, Rust, etc.)
+  - Frameworks (React, Vue, Angular, Django, etc.)
+  - Ferramentas DevOps (Docker, Kubernetes, Terraform, etc.)
+  - Bancos de dados (PostgreSQL, MongoDB, Redis, etc.)
+  - Tecnologias web (Node.js, Next.js, WebAssembly, etc.)
 
 ## 🎯 Como Usar
 
